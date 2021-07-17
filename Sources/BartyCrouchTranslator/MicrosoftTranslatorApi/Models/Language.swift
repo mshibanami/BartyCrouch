@@ -18,6 +18,7 @@ public enum Language: String {
     case danish = "da"
     case dutch = "nl"
     case english = "en"
+    case englishUnitedKingdom = "en-GB"
     case estonian = "et"
     case fijian = "fj"
     case filipino = "fil"
